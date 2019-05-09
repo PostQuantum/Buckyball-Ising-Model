@@ -1,0 +1,7 @@
+Solutions of Q1:
+mean-field: 1.5000
+Monte-Carlo (Wang-Landau): latter
+Tensor netowrk contraction: 0.102557925 (Our contraction sequence considers the geometry. have some error)
+VAN: 1.1851153       (Need to tune super-parameters)
+Quantum Circuit:  Need to learn more
+
