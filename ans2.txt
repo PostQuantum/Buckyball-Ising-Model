@@ -1,0 +1,3 @@
+Solutions of Q2:
+Graph theory: 16000
+The probability distribution: naive practice cannot work.
